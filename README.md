@@ -26,7 +26,7 @@ At Adixoo, I'm building and maintaining an investment analytics platform for an 
 
 **Key Contributions:**
 - Built complex modules like Portfolio Optimizer & Analytics Dashboards
-- Managed large datasets (100s of rows per session) efficiently
+- Managed large datasets (1000s of rows per session) efficiently
 - Improved performance using Zustand to reduce unnecessary re-renders
 - Integrated WebSocket-based real-time updates
 - Implemented RabbitMQ async workflows with retries & dead-letter queues
@@ -86,9 +86,9 @@ Anonymous messaging platform with secure authentication
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-link)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/anshul-porwal-99b705206/
 - 📧 **Email:** anshulporwal6068@gmail.com
-- 🏆 **LeetCode:** [Your LeetCode Profile](https://leetcode.com/your-username)
+- 🏆 **LeetCode:** https://leetcode.com/porwalaanshul31
 
 ---
 
